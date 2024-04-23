@@ -1,8 +1,8 @@
 # Hello 👋
 
-👯 I’m looking to collaborate in a web desing project.
-🌱 I’m currently learning javaScript (Immersed). 
-🔭 Self-taught in shopify.
+- 👯 I’m looking to collaborate in a web desing project.
+- 🌱 I’m currently learning javaScript (Immersed). 
+- 🔭 Self-taught in shopify.
 
 ## Skill:
 
